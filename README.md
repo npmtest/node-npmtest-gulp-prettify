@@ -1,6 +1,6 @@
 # npmtest-gulp-prettify
 
-#### test coverage for  [gulp-prettify (v0.5.0)](https://github.com/jonschlinkert/gulp-prettify)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-prettify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-prettify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-prettify.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-prettify)
+#### basic test coverage for  [gulp-prettify (v0.5.0)](https://github.com/jonschlinkert/gulp-prettify)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-prettify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-prettify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-prettify.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-prettify)
 
 #### Prettify, format, beautify HTML.
 
